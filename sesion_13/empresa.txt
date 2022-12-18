@@ -1,0 +1,4 @@
+codigo,codigo,nombre,precio,cantidad,estado
+01,01,computadora,2000,2,nuevo
+02,02,escritorios,1000,3,nuevo
+03,03,sillas,100,3,nuevo

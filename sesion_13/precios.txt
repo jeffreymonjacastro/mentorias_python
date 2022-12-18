@@ -1,0 +1,4 @@
+codigo,precio,estado
+01,2000,nuevo
+02,1000,nuevo
+03,100,nuevo

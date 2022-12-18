@@ -1,0 +1,4 @@
+codigo,nombre,cantidad
+01,computadora,2
+02,escritorios,3
+03,sillas,3
